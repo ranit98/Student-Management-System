@@ -1,6 +1,9 @@
 # Student-Management-System
 
 GET localhost:8080/student - list of all students
+
+
+
 POST localhost:8080/student - post new student
                             - request body 
                        
@@ -12,4 +15,6 @@ POST localhost:8080/student - post new student
                                 }
                                 
 UPDATE localhost:8080/student/id
+
+
 DELETE localhost:8080/student/id
